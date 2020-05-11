@@ -1,2 +1,2 @@
 # Linear-Regression
-Implementation of linear regression model to predict big mart sales.
+Implementation of linear regression model in big mart sales prediction.
